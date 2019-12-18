@@ -440,7 +440,7 @@
 											"top": 187.5,
 											"width": 210,
 											"height": 13,
-											"text": "Ver rango de tiempo"
+											"text": "Reportar rango de tiempo"
 										},
 										{
 											"_type": "LabelView",
@@ -19626,7 +19626,7 @@
 											"top": 155.5,
 											"width": 210,
 											"height": 13,
-											"text": "Ver tiempo de disponibilidad"
+											"text": "Informar tiempo de disponibilidad"
 										},
 										{
 											"_type": "LabelView",
@@ -19825,7 +19825,7 @@
 											"top": 219.5,
 											"width": 228,
 											"height": 13,
-											"text": "Ver tiempo de no disponibilidad"
+											"text": "Informar tiempo de no disponibilidad"
 										},
 										{
 											"_type": "LabelView",
@@ -19858,7 +19858,7 @@
 									"font": "Arial;13;0",
 									"left": 1225.5,
 									"top": 212.5,
-									"width": 238,
+									"width": 238.947265625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+Bg5rObbbd8="
@@ -21126,7 +21126,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu6/0Du3d8pjY="
 					},
-					"name": "Ver rango de tiempo",
+					"name": "Reportar rango de tiempo",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -22762,7 +22762,7 @@
 											"top": 288.5,
 											"width": 210,
 											"height": 13,
-											"text": "Ver rango de tiempo"
+											"text": "Reportar rango de tiempo"
 										},
 										{
 											"_type": "LabelView",
@@ -25156,7 +25156,7 @@
 											"top": 251.5,
 											"width": 210,
 											"height": 13,
-											"text": "Ver tiempo de disponibilidad"
+											"text": "Informar tiempo de disponibilidad"
 										},
 										{
 											"_type": "LabelView",
@@ -25358,7 +25358,7 @@
 											"top": 307.5,
 											"width": 228,
 											"height": 13,
-											"text": "Ver tiempo de no disponibilidad"
+											"text": "Informar tiempo de no disponibilidad"
 										},
 										{
 											"_type": "LabelView",
@@ -25391,7 +25391,7 @@
 									"font": "Arial;13;0",
 									"left": 905.5,
 									"top": 300.5,
-									"width": 238,
+									"width": 238.947265625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+IOfD8Y9Uoo="
@@ -30388,7 +30388,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFu+IJ7VocDItY="
 							},
-							"name": "Ver tiempo de disponibilidad"
+							"name": "Informar tiempo de disponibilidad"
 						},
 						{
 							"_type": "UMLUseCase",
@@ -30396,7 +30396,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFu+IJ7VocDItY="
 							},
-							"name": "Ver tiempo de no disponibilidad"
+							"name": "Informar tiempo de no disponibilidad"
 						}
 					]
 				}
@@ -40907,7 +40907,7 @@
 									"font": "Arial;13;0",
 									"left": 484,
 									"top": 692.5,
-									"width": 173,
+									"width": 173.26171875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+ItDrtBoOSs="
@@ -41311,7 +41311,7 @@
 									"font": "Arial;13;0",
 									"left": 785.5,
 									"top": 669.5,
-									"width": 117,
+									"width": 117.40234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+IvIb+1iKps="
@@ -41513,7 +41513,7 @@
 									"font": "Arial;13;0",
 									"left": 808.5,
 									"top": 733.5,
-									"width": 112,
+									"width": 113.05419921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+IvIb+1tafo="
@@ -41715,7 +41715,7 @@
 									"font": "Arial;13;0",
 									"left": 842.5,
 									"top": 781.5,
-									"width": 120,
+									"width": 121.03955078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFu+IvIcO14qZE="
